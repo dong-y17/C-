@@ -6,4 +6,4 @@ int main()
     return 0;
 }
 change 4;
-missing change of 4;
+missing change;
